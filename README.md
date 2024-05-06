@@ -1,4 +1,4 @@
-# Selenium and Web Scraping Examples
+# Selenium Web Scraping and Cookie Clicker Game
 
 This repository contains Python scripts demonstrating various examples of web scraping and automation using Selenium and BeautifulSoup libraries.
 
